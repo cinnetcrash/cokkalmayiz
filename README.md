@@ -64,7 +64,8 @@ python3 -m http.server 8000
 | `cover-1.png` | "Ne Farkeder" kapak (eclipse) |
 | `cover-bir-problem-var.png` | "Bir Problem Var" gerçek kapak |
 | `cover-2.png` | Yedek eclipse kare; şu an kullanılmıyor |
-| `cover-3.png` | "Bana Bi' Yalan Söyle" kapak (yakında, eclipse) |
+| `cover-bana-bi-yalan-soyle.jpg` | "Bana Bi' Yalan Söyle" gerçek kapak |
+| `cover-3.png` | Yedek eclipse kare; artık kullanılmıyor |
 | `tarot-gultekin.png`, `tarot-ahmet.png`, `tarot-yunus.png` | Üye tarot kartları |
 | `band-table.png` | Hakkımızda bölümü grup fotoğrafı |
 | `tarot-trio.png` | Yedek; şu an kullanılmıyor |
