@@ -61,7 +61,8 @@ python3 -m http.server 8000
 | Dosya | Kaynak / Kullanım |
 | --- | --- |
 | `logo-wide.png`, `logo-wide-2.png` | Hero arka plan (eclipse logo) |
-| `cover-1.png` | "Ne Farkeder" kapak (eclipse) |
+| `cover-ne-farkeder.png` | "Ne Farkeder" gerçek kapak |
+| `cover-1.png` | Yedek eclipse kare; artık kullanılmıyor |
 | `cover-bir-problem-var.png` | "Bir Problem Var" gerçek kapak |
 | `cover-2.png` | Yedek eclipse kare; şu an kullanılmıyor |
 | `cover-bana-bi-yalan-soyle.jpg` | "Bana Bi' Yalan Söyle" gerçek kapak |
