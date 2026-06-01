@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cinnetcrash.github.io/cokkalmayiz/sitemap.xml
