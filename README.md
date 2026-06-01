@@ -60,13 +60,10 @@ python3 -m http.server 8000
 
 | Dosya | Kaynak / Kullanım |
 | --- | --- |
-| `logo-wide.png`, `logo-wide-2.png` | Hero arka plan (eclipse logo) |
+| `logo-wide.png` | Hero arka plan (eclipse logo) |
 | `cover-ne-farkeder.png` | "Ne Farkeder" gerçek kapak |
-| `cover-1.png` | Yedek eclipse kare; artık kullanılmıyor |
+| `cover-1.png` | Eclipse kare; favicon olarak kullanılıyor |
 | `cover-bir-problem-var.png` | "Bir Problem Var" gerçek kapak |
-| `cover-2.png` | Yedek eclipse kare; şu an kullanılmıyor |
 | `cover-bana-bi-yalan-soyle.jpg` | "Bana Bi' Yalan Söyle" gerçek kapak |
-| `cover-3.png` | Yedek eclipse kare; artık kullanılmıyor |
 | `tarot-gultekin.png`, `tarot-ahmet.png`, `tarot-yunus.png` | Üye tarot kartları |
 | `band-table.png` | Hakkımızda bölümü grup fotoğrafı |
-| `tarot-trio.png` | Yedek; şu an kullanılmıyor |
